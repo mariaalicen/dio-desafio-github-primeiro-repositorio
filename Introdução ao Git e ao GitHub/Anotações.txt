@@ -1,0 +1,25 @@
+Anotações Comandos do Git
+
+*Adicionar
+
+-Mover para a Strage
+
+-Git add
+
+
+
+*Commit
+
+-Git Commit -m "Colocar alteração"
+
+
+
+*Enviar o código da máquina para o GitHub
+
+-push
+
+-git push original master/main
+
+
+
+O git Bash é um terminal extendido para otimizar o uso do Git
